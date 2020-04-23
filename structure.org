@@ -1,0 +1,10 @@
+
+structure of the proof pre-planned for organization
+
+*top level directories*
+
+* Class
+** Commutative
+*** properties - of abelian groups
+** Crdered group
+*** properties - of ordered groups
